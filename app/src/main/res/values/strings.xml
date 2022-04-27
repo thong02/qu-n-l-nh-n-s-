@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QUẢN LÝ NHÂN SỰ</string>
+    <string name="name">Họ và Tên :</string>
+    <string name="age">Tuổi :</string>
+</resources>
